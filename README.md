@@ -4,23 +4,30 @@
 
 |key|value|
 |---|-----|
-|Name|ふー　ばー (Foo Bar))|
-|Blog|[ふーばーブログ](http://foobar.blog.com)|
-|Twitter|[@foobar](https://twitter.com/foobar)|
-|Qiita|[foobar](http://qiita.com/foobar)|
-|SlideShare|[foobar](http://www.slideshare.net/foobar)|
-|Speakerdeck|[foobar](https://speakerdeck.com/foobar)|
+|Name|ふじい (Y Fujii))|
+|Qiita|[yfujii01](http://qiita.com/yfujii01)|
+|github|[yfujii01](http://github.com/yfujii01)|
 
 ## スキル
 
 ### 言語
 
 - プログラミング言語
-
+  - Java
+  - C#
+  - VB.net
+  - VBA
+  - JavaScript
+  - NodeJs(趣味レベル)
+  - Python(趣味レベル)
+  - Ruby(趣味レベル)
+  - ShellScript
+  - bat
+  
 - 日本語
   - ネイティブ
-- 英語（例）
-  - かんたんな日常会話ができる（例）
+- 英語
+  - google翻訳必須
 
 ### フレームワーク
 
@@ -31,38 +38,64 @@
 
 - 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
 
+- redmine
+- jenkins
+- CircleCI
+- docker
+- vagrant
+- selenium
+
 ## 強み
 
 ## やったことはないが興味があるもの
 
 ## 登壇歴
 
+- なし
+
 ## 受賞歴
+
+- なし
 
 ## 執筆歴
 
+- なし
+
 ### 商業
+
+- なし
 
 ### 同人
 
+- なし
+
 ## 職務経歴
 
-### yyyy/mm - : 会社名
+### 2018/09 - : 岡山IT会社
 
-職務: Webアプリケーションエンジニア（例）
+職務: Webアプリケーションエンジニア
 
-#### 職務内容の名前（レストラン検索とか）
+#### 商業系顧客管理システム
 
-- 職務内容の詳細を箇条書きでかく
+- 品質強化作業
+  - e2eテスト自動化(selenium使用)
+  - CircleCI設定
+  - 環境構築手順自動化(script作成+docker)
 
-#### 職務内容の名前（レストラン検索とか）
+- 機能追加
 
-- 職務内容の詳細を箇条書きでかく
+#### 出張管理システム
 
-### yyyy/mm - yyyy/mm: （前職の企業名。あれば）
+- 過去データ分析ツール作成
 
-職務: サーバーサイドエンジニア
+### 2017/04 - 2018/08: 岡山IT会社
 
-#### 職務内容の名前（レストラン検索とか）
+職務: SE
 
-- 職務内容の詳細を箇条書きでかく
+#### 教育(テスト結果集計およびレポート作成システム)・・・バッチ処理
+
+- 要件定義
+
+- 全体設計
+
+- 詳細設計
