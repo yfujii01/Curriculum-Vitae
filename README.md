@@ -4,7 +4,7 @@
 
 |key|value|
 |---|-----|
-|Name|ふじい (Y Fujii))|
+|Name|Y Fujii)|
 |Qiita|[yfujii01](http://qiita.com/yfujii01)|
 |github|[yfujii01](http://github.com/yfujii01)|
 
