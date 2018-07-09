@@ -18,10 +18,11 @@
   - VB.net
   - VBA
   - JavaScript
-  - NodeJs(趣味レベル)
-  - Python(趣味レベル)
-  - Ruby(趣味レベル)
-  - ShellScript
+  - NodeJs
+  - Python
+  - Ruby
+  - bash
+  - fish
   - bat
   
 - 日本語
