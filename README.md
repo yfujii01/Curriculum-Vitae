@@ -88,8 +88,8 @@
 
 - スマートスピーカー(alexa)
 - deep learning
-- aws
-- railsを使った個人サイト
+- aws・railsを使った個人サイト
+- iphoneアプリ作成
 
 ## 登壇歴
 
