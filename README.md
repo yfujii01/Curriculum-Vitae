@@ -39,22 +39,39 @@
 - bootstrap3
 
 ### DB
+
 - oracle
 - mysql
 - postgresql
 - sqlserver
 
-### その他
+### OS
 
-- 言語やフレームワークに限らないスキル。開発手法やプロセス、ツールなど
+- windows
+- mac
+- ubuntu
+- centos
+
+### エディタ
+
+- vim
+- vscode
+- intellij idea
+- サクラエディタ
+
+### デプロイ環境
+
+- heroku
+- gcp
+- docker
+- vagrant
+
+### その他
 
 - redmine
 - jenkins
 - CircleCI
-- docker
-- vagrant
 - selenium
-- gcp
 
 ## 強み
 
@@ -69,7 +86,10 @@
 
 ## やったことはないが興味があるもの
 
+- スマートスピーカー(alexa)
 - deep learning
+- aws
+- railsを使った個人サイト
 
 ## 登壇歴
 
