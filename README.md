@@ -111,6 +111,6 @@
 
 - なし
 
-## 職務経歴
+## 職務経歴詳細
 
 [リンク](https://docs.google.com/spreadsheets/d/e/2PACX-1vRdXshXcPES9dMRkoB7MIIVeQYzwsL_CMJg_y0mJvByEPpm7pInyULCudaiBrlPmowhn1g_i_mTPt2O/pubhtml)
