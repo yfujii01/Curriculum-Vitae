@@ -4,7 +4,7 @@
 
 |key|value|
 |---|-----|
-|Name|Y Fujii)|
+|Name|Y Fujii|
 |Qiita|[yfujii01](http://qiita.com/yfujii01)|
 |github|[yfujii01](http://github.com/yfujii01)|
 
@@ -32,8 +32,17 @@
 
 ### フレームワーク
 
-- Framework名
-  - 関わった製品やポートフォリオがあればそのリンクを貼る
+- spring
+- seaser2
+- ome
+- c#MVC
+- bootstrap3
+
+### DB
+- oracle
+- mysql
+- postgresql
+- sqlserver
 
 ### その他
 
@@ -45,10 +54,22 @@
 - docker
 - vagrant
 - selenium
+- gcp
 
 ## 強み
 
+- 新しい技術が好き
+- 調べながらの作業が好き
+- CLI好き
+- フリーソフト好き
+- マルチプラットフォーム好き
+- seleniumを使ったe2eテストの自動化対応
+- dockerを使ったコンテナ化対応
+- github + circleciでのci環境構築
+
 ## やったことはないが興味があるもの
+
+- deep learning
 
 ## 登壇歴
 
@@ -72,39 +93,4 @@
 
 ## 職務経歴
 
-### 2018/09 - : IT会社(2社目)
-
-職務: Webアプリケーションエンジニア
-
-#### 商業系顧客管理システム
-
-- 品質強化作業
-  - e2eテスト自動化(selenium使用)
-  - CircleCI設定
-  - 環境構築手順自動化(script作成+docker)
-
-- 機能追加
-
-#### 出張管理システム
-
-- 過去データ分析ツール作成
-
-### 2017/04 - 2018/08: IT会社(1社目)
-
-職務: SE
-
-#### 教育(テスト結果集計およびレポート作成システム)・・・バッチ処理
-
-- 要件定義(新規)
-- 全体設計
-- 工数管理
-
-#### 官公庁系システム
-
-- 要件定義(システム改定)
-
-#### 防衛系システム
-
-- 詳細設計
-- 製造
-
+[リンク](https://docs.google.com/spreadsheets/d/1nbDfTZijedhBsdJjxEqU5w1d5WxWMmJSif9IjdpnVUU/edit#gid=1853384873)
