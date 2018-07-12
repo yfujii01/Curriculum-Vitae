@@ -36,6 +36,7 @@
 - seaser2
 - ome
 - c#MVC
+- c#entity framework
 - bootstrap3
 
 ### DB
