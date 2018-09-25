@@ -87,10 +87,7 @@
 
 ## やったことはないが興味があるもの
 
-- スマートスピーカー(alexa)
-- deep learning
-- aws・railsを使った個人サイト
-- iphoneアプリ作成
+- webpackを用いたフロントエンド開発
 
 ## 登壇歴
 
