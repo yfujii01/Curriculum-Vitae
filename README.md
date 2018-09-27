@@ -57,13 +57,14 @@
 
 - vim
 - vscode
-- intellij idea
+- JetBrains系IDE
 - サクラエディタ
 
 ### デプロイ環境
 
 - heroku
 - gcp
+- aws
 - docker
 - vagrant
 
@@ -73,6 +74,10 @@
 - jenkins
 - CircleCI
 - selenium
+- PlantUML
+- GitHub
+- GitLab
+- VSTS
 
 ## 強み
 
@@ -88,26 +93,6 @@
 ## やったことはないが興味があるもの
 
 - webpackを用いたフロントエンド開発
-
-## 登壇歴
-
-- なし
-
-## 受賞歴
-
-- なし
-
-## 執筆歴
-
-- なし
-
-### 商業
-
-- なし
-
-### 同人
-
-- なし
 
 ## 職務経歴詳細
 
